@@ -37,6 +37,8 @@ This project demonstrates how to arm, disarm, and control a PX4-based flight con
 The system operates at **921600 baud**, matching PX4 TELEM3 default high-speed telemetry configuration.
 
 ---
+![UI Screenshot](img/devkit1.png)
+![UI Screenshot](img/devkit1.1.png)
 
 ## 🧩 Software Setup
 
@@ -118,8 +120,9 @@ Arming functions through MAV_CMD_COMPONENT_ARM_DISARM commands.
 
 * PX4 accepts arm/disarm commands
 * Web UI updates in real-time
-* Manual control overrides work
+* Manual control overrides work : Modes : Stabilized, Acro, Altitude
 * Telemetry properly displayed
+* Esp32 can arm the drone without RC signal
 
 ---
 
