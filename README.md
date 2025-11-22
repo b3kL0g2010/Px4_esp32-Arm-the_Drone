@@ -98,6 +98,9 @@ Arming functions through MAV_CMD_COMPONENT_ARM_DISARM commands.
 
 ---
 
+![UI Screenshot](img/ui.png)
+
+
 ## 📡 MAVLink Behavior
 
 ### Sent by ESP32
