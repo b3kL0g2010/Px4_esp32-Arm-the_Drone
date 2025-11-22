@@ -37,8 +37,8 @@ This project demonstrates how to arm, disarm, and control a PX4-based flight con
 The system operates at **921600 baud**, matching PX4 TELEM3 default high-speed telemetry configuration.
 
 ---
-![UI Screenshot](img/devkit1.png)
-![UI Screenshot](img/devkit1.1.png)
+![UI Screenshot](img/devkit1.jpg)
+![UI Screenshot](img/devkit1.1.jpg)
 
 ## 🧩 Software Setup
 
